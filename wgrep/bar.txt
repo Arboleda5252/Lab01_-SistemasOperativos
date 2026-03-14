@@ -1,0 +1,4 @@
+this line has foo in it
+so does this foolish line
+this one does not
+even barfood is here
