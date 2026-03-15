@@ -5,6 +5,8 @@ Elaborado por:
 - Duván Antonio Arboleda Botero
   duvan.arboleda1@udea.edu.co
 
+Link de video: 
+
 ## Introducción
 
 Este laboratorio tiene como propósito profundizar de herramientas esenciales de la terminal de Linux. A través del desarrollo de utilidades clásicas como wcat, wgrep, winzip y winzip. Se busca fortalecer el dominio del lenguaje C, consolidar el uso de la consola de Linux como entorno de desarrollo principal, navegando por el sistema de archivos y gestionando procesos desde la terminal.
